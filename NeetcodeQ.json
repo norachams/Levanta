@@ -1,0 +1,4017 @@
+[
+  {
+    "title": "Score of a String",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Concatenation of Array",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Contains Duplicate",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Valid Anagram",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Replace Elements With Greatest Element On Right Side",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Is Subsequence",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Append Characters to String to Make Subsequence",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Length of Last Word",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Number of Senior Citizens",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Max Consecutive Ones",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Longest Common Prefix",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "String Matching in an Array",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Group Anagrams",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Pascals Triangle",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Remove Element",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Unique Email Addresses",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Isomorphic Strings",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Can Place Flowers",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Majority Element",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Maximum Difference Between Even and Odd Frequency I",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Next Greater Element I",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Maximum Ascending Subarray Sum",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Find Pivot Index",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Kth Distinct String in an Array",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Range Sum Query - Immutable",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Find All Numbers Disappeared in An Array",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Find Missing and Repeated Values",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Maximum Number of Balloons",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Word Pattern",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Design HashSet",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Design HashMap",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Height Checker",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Find Lucky Integer in an Array",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Special Array I",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Check if Array Is Sorted and Rotated",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Monotonic Array",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Divide Array Into Equal Pairs",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Number of Good Pairs",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Pascal's Triangle II",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Find Words That Can Be Formed by Characters",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Count the Number of Consistent Strings",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Ransom Note",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Largest 3-Same-Digit Number in String",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Destination City",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Maximum Product Difference Between Two",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Circular Sentence",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Maximum Score After Splitting a String",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Path Crossing",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Minimum Changes To Make Alternating Binary String",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Redistribute Characters to Make All Strings Equal",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Longest Palindrome",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Largest Substring Between Two Equal Characters",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Set Mismatch",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "First Unique Character in a String",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Intersection of Two Arrays",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Find Common Characters",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Number of Students Unable to Eat Lunch",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Time Needed to Buy Tickets",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Special Array with X Elements Greater than or Equal X",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Count Vowel Strings in Ranges",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Average Waiting Time",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Sort an Array",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Sort Colors",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Relative Sort Array",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Sort the People",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Sort Array by Increasing Frequency",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Top K Frequent Elements",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Encode and Decode Strings",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Range Sum Query 2D Immutable",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Analyze User Website Visit Pattern",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Product of Array Except Self",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Minimum Number of Operations to Move All Balls to Each Box",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Valid Sudoku",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Encode and Decode TinyURL",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Brick Wall",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Best Time to Buy And Sell Stock II",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Majority Element II",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Minimum Index of a Valid Split",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Subarray Sum Equals K",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Subarray Sums Divisible by K",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Make Sum Divisible by P",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Unique Length 3 Palindromic Subsequences",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Number of Sub-arrays With Odd Sum",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Minimum Number of Swaps to Make The String Balanced",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Number of Pairs of Interchangeable Rectangles",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Maximum Product of The Length of Two Palindromic Subsequences",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Grid Game",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Find All Anagrams in a String",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Find The Index of The First Occurrence in a String",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Wiggle Sort",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Largest Number",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Continuous Subarray Sum",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Push Dominoes",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Repeated DNA Sequences",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Insert Delete Get Random O(1)",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Check if a String Contains all Binary Codes of Size K",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Non Decreasing Array",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Number of Ways to Split Array",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Sign of An Array",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Find the Difference of Two Arrays",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Uncommon Words from Two Sentences",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Design Parking System",
+    "difficulty": "Easy",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Shifting Letters II",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Number of Zero-Filled Subarrays",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Word Subsets",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Optimal Partition of String",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Design Underground System",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Minimum Penalty for a Shop",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Champagne Tower",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Sum of Absolute Differences in a Sorted Array",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Design a Food Rating System",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Convert an Array Into a 2D Array With Conditions",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Minimum Numbers of Operations to Make Array Empty",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Divide Array Into Arrays With Max Difference",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Sequential Digits",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Sort Characters By Frequency",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Sort the Jumbled Numbers",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Find Polygon with the Largest Perimeter",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Contiguous Array",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Count Number of Bad Pairs",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Find All Duplicates in an Array",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Find the Length of the Longest Common Prefix",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Count Unguarded Cells in the Grid",
+    "difficulty": "Medium",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Text Justification",
+    "difficulty": "Hard",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Naming a Company",
+    "difficulty": "Hard",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Number of Submatrices that Sum to Target",
+    "difficulty": "Hard",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "First Missing Positive",
+    "difficulty": "Hard",
+    "Topic": "Arrays & Hashing"
+  },
+  {
+    "title": "Shortest Palindrome",
+    "difficulty": "Hard",
+    "Topic": "Arrays & Hashing"
+  },
+
+  {
+    "title": "Reverse String",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Valid Palindrome",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Valid Palindrome II",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Valid Word Abbreviation",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Merge Strings Alternately",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Merge Sorted Array",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Merge Two 2D Arrays by Summing Values",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Move Zeroes",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Remove Duplicates From Sorted Array",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Squares of a Sorted Array",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Assign Cookies",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Find First Palindromic String in the Array",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Sort Array by Parity",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Reverse Words in a String III",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Backspace String Compare",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Check If Two String Arrays are Equivalent",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Apply Operations to an Array",
+    "difficulty": "Easy",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Adding Spaces to a String",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "String Compression",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Remove Duplicates From Sorted Array II",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Partition Array According to Given Pivot",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Two Sum II Input Array Is Sorted",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "3Sum",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "4Sum",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Rotate Array",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Container With Most Water",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Number of Subsequences That Satisfy The Given Sum Condition",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Array With Elements Not Equal to Average of Neighbors",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Divide Players Into Teams of Equal Skill",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Boats to Save People",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "K-th Symbol in Grammar",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Minimum Time To Make Rope Colorful",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Rearrange Array Elements by Sign",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Bag of Tokens",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Minimum Length of String after Deleting Similar Ends",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Sentence Similarity III",
+    "difficulty": "Medium",
+    "Topic": "Two Pointers"
+  },
+  {
+    "title": "Trapping Rain Water",
+    "difficulty": "Hard",
+    "Topic": "Two Pointers"
+  },
+  
+  {
+    "title": "Contains Duplicate II",
+    "difficulty": "Easy",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Best Time to Buy And Sell Stock",
+    "difficulty": "Easy",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+    "difficulty": "Easy",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Minimum Difference Between Highest And Lowest of K Scores",
+    "difficulty": "Easy",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Number of Sub Arrays of Size K and Avg Greater than or Equal to Threshold",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Grumpy Bookstore Owner",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Alternating Groups II",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Longest Repeating Character Replacement",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Permutation In String",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Frequency of The Most Frequent Element",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Fruits into Basket",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Maximum Number of Vowels in a Substring of Given Length",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Minimum Number of Flips to Make The Binary String Alternating",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Defuse the Bomb",
+    "difficulty": "Easy",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Minimum Size Subarray Sum",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Find K Closest Elements",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Minimum Operations to Reduce X to Zero",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Get Equal Substrings Within Budget",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Number of Substrings Containing All Three Characters",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Binary Subarrays with Sum",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Count Number of Nice Subarrays",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Subarray Product Less Than K",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Max Consecutive Ones III",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Find the Power of K-Size Subarrays I",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Maximum Sum of Distinct Subarrays With Length K",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Length of Longest Subarray With at Most K Frequency",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Count Subarrays Where Max Element Appears at Least K Times",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Maximum Beauty of an Array After Applying Operation",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Take K of Each Character From Left and Right",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Count of Substrings Containing Every Vowel and K Consonants II",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Minimum Window Substring",
+    "difficulty": "Hard",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Sliding Window Maximum",
+    "difficulty": "Hard",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Subarrays with K Different Integers",
+    "difficulty": "Hard",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Minimum Number of Operations to Make Array Continuous",
+    "difficulty": "Hard",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "difficulty": "Medium",
+    "Topic": "Sliding Window"
+  },
+  {
+    "title": "Smallest Range Covering Elements from K Lists",
+    "difficulty": "Hard",
+    "Topic": "Sliding Window"
+  },
+  
+  {
+    "title": "Crawler Log Folder",
+    "difficulty": "Easy",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Baseball Game",
+    "difficulty": "Easy",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Valid Parentheses",
+    "difficulty": "Easy",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Implement Stack Using Queues",
+    "difficulty": "Easy",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Implement Queue using Stacks",
+    "difficulty": "Easy",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Final Prices With a Special Discount in a Shop",
+    "difficulty": "Easy",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Make The String Great",
+    "difficulty": "Easy",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Min Stack",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Evaluate Reverse Polish Notation",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Removing Stars From a String",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Validate Stack Sequences",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Generate Parentheses",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Asteroid Collision",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Daily Temperatures",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Online Stock Span",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Car Fleet",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Simplify Path",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Decode String",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Remove K Digits",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Remove All Adjacent Duplicates In String II",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Reverse Substrings Between Each Pair of Parentheses",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Minimum String Length After Removing Substrings",
+    "difficulty": "Easy",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Clear Digits",
+    "difficulty": "Easy",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Minimum Add to Make Parentheses Valid",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Maximum Width Ramp",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Basic Calculator II",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "132 Pattern",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Flatten Nested List Iterator",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Sum of Subarray Minimums",
+    "difficulty": "Medium",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Maximum Frequency Stack",
+    "difficulty": "Hard",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Robot Collisions",
+    "difficulty": "Hard",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Number of Visible People in a Queue",
+    "difficulty": "Hard",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Largest Rectangle In Histogram",
+    "difficulty": "Hard",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Shortest Subarray with Sum at Least K",
+    "difficulty": "Hard",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Parsing A Boolean Expression",
+    "difficulty": "Hard",
+    "Topic": "Stack"
+  },
+  {
+    "title": "Number of Atoms",
+    "difficulty": "Hard",
+    "Topic": "Stack"
+  },
+  
+
+  {
+    "title": "Binary Search",
+    "difficulty": "Easy",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Search Insert Position",
+    "difficulty": "Easy",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Guess Number Higher Or Lower",
+    "difficulty": "Easy",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Arranging Coins",
+    "difficulty": "Easy",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Valid Perfect Square",
+    "difficulty": "Easy",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Sqrt(x)",
+    "difficulty": "Easy",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Single Element in a Sorted Array",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Find Peak Element",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Successful Pairs of Spells and Potions",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Search a 2D Matrix",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Koko Eating Bananas",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Capacity to Ship Packages Within D Days",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Maximum Candies Allocated to K Children",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "House Robber IV",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Minimize the Maximum Difference of Pairs",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Minimized Maximum of Products Distributed to Any Store",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Minimum Limit of Balls in a Bag",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Minimum Time to Repair Cars",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Find Minimum In Rotated Sorted Array",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Search In Rotated Sorted Array",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Search In Rotated Sorted Array II",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Time Based Key Value Store",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Find First And Last Position of Element In Sorted Array",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Maximum Number of Removable Characters",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Populating Next Right Pointers In Each Node",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Most Beautiful Item for Each Query",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Random Pick with Weight",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Search Suggestions System",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Count the Number of Fair Pairs",
+    "difficulty": "Medium",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Split Array Largest Sum",
+    "difficulty": "Hard",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Find K-th Smallest Pair Distance",
+    "difficulty": "Hard",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Median of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Find in Mountain Array",
+    "difficulty": "Hard",
+    "Topic": "Binary Search"
+  },
+  {
+    "title": "Kth Smallest Product of Two Sorted Arrays",
+    "difficulty": "Hard",
+    "Topic": "Binary Search"
+  },
+
+
+
+
+
+  
+  {
+    "title": "Reverse Linked List",
+    "difficulty": "Easy",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Merge Two Sorted Lists",
+    "difficulty": "Easy",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Linked List Cycle",
+    "difficulty": "Easy",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Palindrome Linked List",
+    "difficulty": "Easy",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Remove Linked List Elements",
+    "difficulty": "Easy",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Remove Duplicates From Sorted List",
+    "difficulty": "Easy",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Middle of the Linked List",
+    "difficulty": "Easy",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Intersection of Two Linked Lists",
+    "difficulty": "Easy",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Merge in Between Linked Lists",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Merge Nodes in Between Zeros",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Remove Nodes From Linked List",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Reorder List",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Maximum Twin Sum Of A Linked List",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Remove Nth Node From End of List",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Delete Nodes From Linked List Present in Array",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Swapping Nodes in a Linked List",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Copy List With Random Pointer",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Design Linked List",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Design Browser History",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Add Two Numbers",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Add Two Numbers II",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Find The Duplicate Number",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Swap Nodes In Pairs",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Sort List",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Partition List",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Rotate List",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Reverse Linked List II",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Design Circular Queue",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Insertion Sort List",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Split Linked List in Parts",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "LRU Cache",
+    "difficulty": "Medium",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "LFU Cache",
+    "difficulty": "Hard",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Merge K Sorted Lists",
+    "difficulty": "Hard",
+    "Topic": "Linked List"
+  },
+  {
+    "title": "Reverse Nodes In K Group",
+    "difficulty": "Hard",
+    "Topic": "Linked List"
+  },
+
+
+
+ {
+    "title": "Binary Tree Inorder Traversal",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Binary Tree Preorder Traversal",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Binary Tree Postorder Traversal",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "N-ary Tree Postorder Traversal",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Invert Binary Tree",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Maximum Depth of Binary Tree",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Diameter of Binary Tree",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Balanced Binary Tree",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Same Tree",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Subtree of Another Tree",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Merge Two Binary Trees",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Path Sum",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Range Sum of BST",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Leaf-Similar Trees",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Evaluate Boolean Binary Tree",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Create Binary Tree From Descriptions",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Binary Tree Vertical Order Traversal",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Construct String From Binary Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Lowest Common Ancestor of a Binary Tree III",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Insert into a Binary Search Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Delete Node in a BST",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Binary Tree Level Order Traversal",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Binary Tree Right Side View",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Reverse Odd Levels of Binary Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Kth Largest Sum in a Binary Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Cousins in Binary Tree II",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Minimum Distance between BST Nodes",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Symmetric Tree",
+    "difficulty": "Easy",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Linked List in Binary Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Minimum Time to Collect All Apples in a Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Construct Quad Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Find Duplicate Subtrees",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Check Completeness of a Binary Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Maximum Width of Binary Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Time Needed to Inform All Employees",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Count Good Nodes In Binary Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Validate Binary Search Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Kth Smallest Element In a Bst",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Recover Binary Search Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Construct Binary Tree From Preorder And Inorder Traversal",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Construct Binary Tree from Preorder and Postorder Traversal",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Unique Binary Search Trees",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Unique Binary Search Trees II",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Number of Good Leaf Nodes Pairs",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Sum Root to Leaf Numbers",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "House Robber III",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Flip Equivalent Binary Trees",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Operations On Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "All Possible Full Binary Trees",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Find Bottom Left Tree Value",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Trim a Binary Search Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Binary Search Tree Iterator",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Validate Binary Tree Nodes",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Find Largest Value in Tree Row",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Pseudo-Palindromic Paths in a Binary Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Even Odd Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Smallest String Starting From Leaf",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Delete Leaves With a Given Value",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Delete Nodes And Return Forest",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Distribute Coins in Binary Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Convert Bst to Greater Tree",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+    "difficulty": "Medium",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Recover a Tree From Preorder Traversal",
+    "difficulty": "Hard",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Binary Tree Maximum Path Sum",
+    "difficulty": "Hard",
+    "Topic": "Trees"
+  },
+  {
+    "title": "Serialize And Deserialize Binary Tree",
+    "difficulty": "Hard",
+    "Topic": "Trees"
+  },
+
+
+
+
+
+
+ 
+  {
+    "title": "Kth Largest Element In a Stream",
+    "difficulty": "Easy",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Last Stone Weight",
+    "difficulty": "Easy",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Take Gifts From the Richest Pile",
+    "difficulty": "Easy",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Final Array State After K Multiplication Operations I",
+    "difficulty": "Easy",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "K Closest Points to Origin",
+    "difficulty": "Medium",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Kth Largest Element In An Array",
+    "difficulty": "Medium",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Task Scheduler",
+    "difficulty": "Medium",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Design Twitter",
+    "difficulty": "Medium",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Least Number of Unique Integers after K Removal",
+    "difficulty": "Medium",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Furthest Building You Can Reach",
+    "difficulty": "Medium",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Minimize Deviation in Array",
+    "difficulty": "Hard",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Maximum Subsequence Score",
+    "difficulty": "Medium",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Single Threaded CPU",
+    "difficulty": "Medium",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Seat Reservation Manager",
+    "difficulty": "Medium",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Process Tasks Using Servers",
+    "difficulty": "Medium",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Find The Kth Largest Integer In The Array",
+    "difficulty": "Medium",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Reorganize String",
+    "difficulty": "Medium",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Longest Happy String",
+    "difficulty": "Medium",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Car Pooling",
+    "difficulty": "Medium",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Range Sum of Sorted Subarray Sums",
+    "difficulty": "Medium",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Find Median From Data Stream",
+    "difficulty": "Hard",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Maximum Performance of a Team",
+    "difficulty": "Hard",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "IPO",
+    "difficulty": "Hard",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Minimum Cost to Hire K Workers",
+    "difficulty": "Hard",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Number of Flowers in Full Bloom",
+    "difficulty": "Hard",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Constrained Subsequence Sum",
+    "difficulty": "Hard",
+    "Topic": "Heap/Priority Queue"
+  },
+  {
+    "title": "Find Building Where Alice and Bob Can Meet",
+    "difficulty": "Hard",
+    "Topic": "Heap/Priority Queue"
+  },
+
+
+
+  {
+    "title": "Sum of All Subsets XOR Total",
+    "difficulty": "Easy",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Subsets",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Combination Sum",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Combination Sum II",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Combinations",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Permutations",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Subsets II",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Permutations II",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Letter Tile Possibilities",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Word Search",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Palindrome Partitioning",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Restore IP Addresses",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Matchsticks to Square",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Splitting a String Into Descending Consecutive Values",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Construct Smallest Number From DI String",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Find Unique Binary String",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Split a String Into the Max Number of Unique Substrings",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Maximum Length of a Concatenated String With Unique Characters",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Partition to K Equal Sum Subsets",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "The Number of Beautiful Subsets",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Different Ways to Add Parentheses",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Construct the Lexicographically Largest Valid Sequence",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Count Number of Maximum Bitwise-OR Subsets",
+    "difficulty": "Medium",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "N Queens",
+    "difficulty": "Hard",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "N Queens II",
+    "difficulty": "Hard",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Maximum Score Words Formed By Letters",
+    "difficulty": "Hard",
+    "Topic": "Backtracking"
+  },
+  {
+    "title": "Word Break II",
+    "difficulty": "Hard",
+    "Topic": "Backtracking"
+  },
+
+
+  {
+    "title": "Count Prefix and Suffix Pairs I",
+    "difficulty": "Easy",
+    "Topic": "Tries"
+  },
+  {
+    "title": "Implement Trie Prefix Tree",
+    "difficulty": "Medium",
+    "Topic": "Tries"
+  },
+  {
+    "title": "Design Add And Search Words Data Structure",
+    "difficulty": "Medium",
+    "Topic": "Tries"
+  },
+  {
+    "title": "Counting Words With a Given Prefix",
+    "difficulty": "Easy",
+    "Topic": "Tries"
+  },
+  {
+    "title": "Remove Sub-Folders from the Filesystem",
+    "difficulty": "Medium",
+    "Topic": "Tries"
+  },
+  {
+    "title": "Extra Characters in a String",
+    "difficulty": "Medium",
+    "Topic": "Tries"
+  },
+  {
+    "title": "Word Search II",
+    "difficulty": "Hard",
+    "Topic": "Tries"
+  },
+  {
+    "title": "Sum of Prefix Scores of Strings",
+    "difficulty": "Hard",
+    "Topic": "Tries"
+  },
+  {
+    "title": "Count Prefix and Suffix Pairs II",
+    "difficulty": "Hard",
+    "Topic": "Tries"
+  },
+
+
+
+
+
+
+  {
+    "title": "Island Perimeter",
+    "difficulty": "Easy",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Verifying An Alien Dictionary",
+    "difficulty": "Easy",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Find the Town Judge",
+    "difficulty": "Easy",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Flood Fill",
+    "difficulty": "Easy",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Count Servers that Communicate",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Find Champion II",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Number of Islands",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Max Area of Island",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Maximum Number of Fish in a Grid",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Clone Graph",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Walls And Gates",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Rotting Oranges",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Count Sub Islands",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Pacific Atlantic Water Flow",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Surrounded Regions",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Reorder Routes to Make All Paths Lead to The City Zero",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Snakes And Ladders",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Open The Lock",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Find Eventual Safe States",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Course Schedule",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Course Schedule II",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Graph Valid Tree",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Course Schedule IV",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Check if Move Is Legal",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Shortest Bridge",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Shortest Path in Binary Matrix",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Number of Connected Components In An Undirected Graph",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Redundant Connection",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Accounts Merge",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Find Closest Node to Given Two Nodes",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "As Far from Land as Possible",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Shortest Path with Alternating Colors",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Minimum Fuel Cost to Report to the Capital",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Minimum Score of a Path Between Two Cities",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Number of Closed Islands",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Number of Enclaves",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Number of Provinces",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Regions Cut By Slashes",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Minimum Number of Vertices to Reach all Nodes",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Is Graph Bipartite?",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Count the Number of Complete Components",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Evaluate Division",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Detonate the Maximum Bombs",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Find All Possible Recipes from Given Supplies",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Shortest Distance After Road Addition Queries I",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Minimum Height Trees",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Path with Maximum Gold",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Most Profitable Path in a Tree",
+    "difficulty": "Medium",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Maximum Number of Points From Grid Queries",
+    "difficulty": "Hard",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Maximum Number of K-Divisible Components",
+    "difficulty": "Hard",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Sliding Puzzle",
+    "difficulty": "Hard",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Largest Color Value in a Directed Graph",
+    "difficulty": "Hard",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Minimum Number of Days to Eat N Oranges",
+    "difficulty": "Hard",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Find All People With Secret",
+    "difficulty": "Hard",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Word Ladder",
+    "difficulty": "Hard",
+    "Topic": "Graphs"
+  },
+  {
+    "title": "Parallel Courses III",
+    "difficulty": "Hard",
+    "Topic": "Graphs"
+  },
+
+
+
+
+   {
+    "title": "Path with Minimum Effort",
+    "difficulty": "Medium",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Network Delay Time",
+    "difficulty": "Medium",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Reconstruct Itinerary",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Min Cost to Connect All Points",
+    "difficulty": "Medium",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Path with Maximum Probability",
+    "difficulty": "Medium",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Find the Safest Path in a Grid",
+    "difficulty": "Medium",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Swim In Rising Water",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Alien Dictionary",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Trapping Rain Water II",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Minimum Obstacle Removal to Reach Corner",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Minimum Time to Visit a Cell In a Grid",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Cheapest Flights Within K Stops",
+    "difficulty": "Medium",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+    "difficulty": "Medium",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Minimum Cost to Convert String I",
+    "difficulty": "Medium",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Number of Ways to Arrive at Destination",
+    "difficulty": "Medium",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Making A Large Island",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Minimum Cost Walk in Weighted Graph",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Number of Good Paths",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Maximum Employees to Be Invited to a Meeting",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Minimum Number of Days to Disconnect Island",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Second Minimum Time to Reach Destination",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Find Minimum Diameter After Merging Two Trees",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Find Critical and Pseudo Critical Edges in Minimum Spanning Tree",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Build a Matrix With Conditions",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Greatest Common Divisor Traversal",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+  {
+    "title": "Divide Nodes Into the Maximum Number of Groups",
+    "difficulty": "Hard",
+    "Topic": "Advanced Graphs"
+  },
+
+
+
+
+  {
+    "title": "Climbing Stairs",
+    "difficulty": "Easy",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Min Cost Climbing Stairs",
+    "difficulty": "Easy",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "N-th Tribonacci Number",
+    "difficulty": "Easy",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "House Robber",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "House Robber II",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Longest Palindromic Substring",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Palindromic Substrings",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Decode Ways",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Coin Change",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Maximum Product Subarray",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Word Break",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Partition Equal Subset Sum",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Triangle",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Delete And Earn",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Paint House",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Filling Bookcase Shelves",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Combination Sum IV",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Perfect Squares",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Check if There is a Valid Partition For The Array",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Maximum Subarray Min Product",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Minimum Cost For Tickets",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Integer Break",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Number of Longest Increasing Subsequence",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Russian Doll Envelopes",
+    "difficulty": "Hard",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Stickers to Spell Word",
+    "difficulty": "Hard",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Uncrossed Lines",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Solving Questions With Brainpower",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Count Ways to Build Good Strings",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Ugly Number II",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "New 21 Game",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Best Team with no Conflicts",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Longest String Chain",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Knight Dialer",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Partition Array for Maximum Sum",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Largest Divisible Subset",
+    "difficulty": "Medium",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Stone Game III",
+    "difficulty": "Hard",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Concatenated Words",
+    "difficulty": "Hard",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Maximize Score after N Operations",
+    "difficulty": "Hard",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Find the Longest Valid Obstacle Course at Each Position",
+    "difficulty": "Hard",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Minimum Number of Removals to Make Mountain Array",
+    "difficulty": "Hard",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Count all Valid Pickup and Delivery Options",
+    "difficulty": "Hard",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Number of Ways to Divide a Long Corridor",
+    "difficulty": "Hard",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+    "difficulty": "Hard",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Maximum Profit in Job Scheduling",
+    "difficulty": "Hard",
+    "Topic": "1-D Dynamic Programming"
+  },
+  {
+    "title": "Student Attendance Record II",
+    "difficulty": "Hard",
+    "Topic": "1-D Dynamic Programming"
+  },
+
+
+
+
+  {
+    "title": "Unique Paths",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Unique Paths II",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Minimum Path Sum",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Maximum Number of Points with Cost",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Longest Common Subsequence",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Longest Palindromic Subsequence",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Length of Longest Fibonacci Subsequence",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Last Stone Weight II",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Best Time to Buy And Sell Stock With Cooldown",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Coin Change II",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Target Sum",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Interleaving String",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Stone Game",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Stone Game II",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Longest Increasing Path In a Matrix",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Maximal Square",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Count Square Submatrices with All Ones",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Ones and Zeroes",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "2 Keys Keyboard",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Maximum Alternating Subsequence Sum",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Distinct Subsequences",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Edit Distance",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Number of Dice Rolls with Target Sum",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Minimum Falling Path Sum",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Out of Boundary Paths",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Longest Ideal Subsequence",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Count Number of Teams",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Shortest Common Supersequence",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Count Vowels Permutation",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Burst Balloons",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Number of Ways to Rearrange Sticks With K Sticks Visible",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Regular Expression Matching",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Flip String to Monotone Increasing",
+    "difficulty": "Medium",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Maximum Value of K Coins from Piles",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Number of Music Playlists",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Number of Ways to Form a Target String Given a Dictionary",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Profitable Schemes",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Minimum Cost to Cut a Stick",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Painting the Walls",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Number of Ways to Stay in the Same Place After Some Steps",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "String Compression II",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Minimum Difficulty of a Job Schedule",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Arithmetic Slices II",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "K Inverse Pairs Array",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Cherry Pickup II",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Minimum Falling Path Sum II",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Freedom Trail",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+  {
+    "title": "Split Array With Same Average",
+    "difficulty": "Hard",
+    "Topic": "2-D Dynamic Programming"
+  },
+
+
+
+  {
+    "title": "Buy Two Chocolates",
+    "difficulty": "Easy",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Lemonade Change",
+    "difficulty": "Easy",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Minimum Number of Moves to Seat Everyone",
+    "difficulty": "Easy",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximum Odd Binary Number",
+    "difficulty": "Easy",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "difficulty": "Easy",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "difficulty": "Easy",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Buildings With an Ocean View",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Minimum Length of String After Operations",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Construct K Palindrome Strings",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Separate Black and White Balls",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Minimum Increment to Make Array Unique",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximum Subarray",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximum Absolute Sum of Any Subarray",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximum Sum Circular Subarray",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Minimum Swaps to Group All 1's Together II",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Longest Turbulent Subarray",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Jump Game",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Jump Game II",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Jump Game VII",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Gas Station",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Hand of Straights",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Minimum Number of Changes to Make Binary String Beautiful",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Minimize Maximum of Array",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximize Y-Sum by Picking a Triplet of Distinct X-Values",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Minimum Difference Between Largest and Smallest Value in Three Moves",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximum Total Importance of Roads",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Minimum Number of Pushes to Type Word II",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Dota2 Senate",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximum Points You Can Obtain From Cards",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Merge Triplets to Form Target Triplet",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Partition Labels",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Valid Parenthesis String",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Check if a Parentheses String Can Be Valid",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Eliminate Maximum Number of Monsters",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Two City Scheduling",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximum Length of Pair Chain",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Best Sightseeing Pair",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Minimum Deletions to Make Character Frequencies Unique",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Minimum Deletions to Make String Balanced",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Candy",
+    "difficulty": "Hard",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximum Score From Removing Substrings",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximum Element After Decreasing and Rearranging",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Number of Laser Beams in a Bank",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximum Distance in Arrays",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Reveal Cards In Increasing Order",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Construct String With Repeat Limit",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Find Valid Matrix Given Row and Column Sums",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Score After Flipping Matrix",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Flip Columns For Maximum Number of Equal Rows",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximum Matrix Sum",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Make Two Arrays Equal by Reversing Subarrays",
+    "difficulty": "Easy",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Shortest Subarray to be Removed to Make Array Sorted",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Max Chunks To Make Sorted",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Next Permutation",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximum Swap",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximal Score After Applying K Operations",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximum Frequency After Subarray Operation",
+    "difficulty": "Medium",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Put Marbles in Bags",
+    "difficulty": "Hard",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Minimum Number of K Consecutive Bit Flips",
+    "difficulty": "Hard",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Maximum Score of a Good Subarray",
+    "difficulty": "Hard",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Find the Maximum Sum of Node Values",
+    "difficulty": "Hard",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+    "difficulty": "Hard",
+    "Topic": "Greedy"
+  },
+  {
+    "title": "Apply Operations to Maximize Score",
+    "difficulty": "Hard",
+    "Topic": "Greedy"
+  },
+
+
+
+  {
+    "title": "Insert Interval",
+    "difficulty": "Medium",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "Merge Intervals",
+    "difficulty": "Medium",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "Non Overlapping Intervals",
+    "difficulty": "Medium",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "Interval List Intersections",
+    "difficulty": "Medium",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "Meeting Rooms",
+    "difficulty": "Easy",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "Meeting Rooms II",
+    "difficulty": "Medium",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "Meeting Rooms III",
+    "difficulty": "Hard",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "Divide Intervals Into Minimum Number of Groups",
+    "difficulty": "Medium",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "Remove Covered Intervals",
+    "difficulty": "Medium",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "difficulty": "Medium",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "The Number of the Smallest Unoccupied Chair",
+    "difficulty": "Medium",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "Check if Grid can be Cut into Sections",
+    "difficulty": "Medium",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "My Calendar I",
+    "difficulty": "Medium",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "My Calendar II",
+    "difficulty": "Medium",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "Count Days Without Meetings",
+    "difficulty": "Medium",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "Minimum Interval to Include Each Query",
+    "difficulty": "Hard",
+    "Topic": "Intervals"
+  },
+  {
+    "title": "Data Stream as Disjoint Intervals",
+    "difficulty": "Hard",
+    "Topic": "Intervals"
+  },
+
+
+
+  {
+    "title": "Excel Sheet Column Title",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Greatest Common Divisor of Strings",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Insert Greatest Common Divisors in Linked List",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Count Odd Numbers in an Interval Range",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Matrix Diagonal Sum",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Calculate Money in Leetcode Bank",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Largest Odd Number in String",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Transpose Matrix",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Image Smoother",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Count of Matches in Tournament",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Water Bottles",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Largest Local Values in a Matrix",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Power of Four",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Lucky Numbers in a Matrix",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Maximum Points on a Line",
+    "difficulty": "Hard",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Magic Squares In Grid",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Rotate Image",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Spiral Matrix",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Spiral Matrix II",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Spiral Matrix III",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Spiral Matrix IV",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Set Matrix Zeroes",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Happy Number",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Plus One",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Palindrome Number",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Ugly Number",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Convert 1D Array Into 2D Array",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Shift 2D Grid",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Roman to Integer",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Integer to Roman",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Pow(x, n)",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Find the Punishment Number of an Integer",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Check if Number is a Sum of Powers of Three",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Multiply Strings",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Detect Squares",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Robot Bounded In Circle",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Walking Robot Simulation",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Zigzag Conversion",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Rotating the Box",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Sum of Square Numbers",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Find Missing Observations",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Minimum Time Difference",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Minimum Operations to Make a Uni-Value Grid",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Largest Submatrix With Rearrangements",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Wildest Vertical Area Between Two Points Containing No Points",
+    "difficulty": "Easy",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Tuple with Same Product",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Lexicographical Numbers",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Find the Winner of the Circular Game",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Count Total Number of Colored Cells",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Prime Subtraction Operation",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Closest Prime Numbers in Range",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Distribute Candies Among Children II",
+    "difficulty": "Medium",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Minimum Number of One Bit Operations to Make Integers Zero",
+    "difficulty": "Hard",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "K-th Smallest in Lexicographical Order",
+    "difficulty": "Hard",
+    "Topic": "Math & Geometry"
+  },
+  {
+    "title": "Integer to English Words",
+    "difficulty": "Hard",
+    "Topic": "Math & Geometry"
+  },
+
+
+  {
+    "title": "Single Number",
+    "difficulty": "Easy",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Single Number III",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Number of 1 Bits",
+    "difficulty": "Easy",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Counting Bits",
+    "difficulty": "Easy",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Add Binary",
+    "difficulty": "Easy",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Minimum Bit Flips to Convert Number",
+    "difficulty": "Easy",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Reverse Bits",
+    "difficulty": "Easy",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Missing Number",
+    "difficulty": "Easy",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Shuffle the Array",
+    "difficulty": "Easy",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Add to Array-Form of Integer",
+    "difficulty": "Easy",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Find the Diffrence",
+    "difficulty": "Easy",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Power of Two",
+    "difficulty": "Easy",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Sum of Two Integers",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Reverse Integer",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Bitwise XOR of All Pairings",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Largest Combination With Bitwise AND Greater Than Zero",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "XOR Queries of a Subarray",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Maximum XOR for Each Query",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Neighboring Bitwise XOR",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Shortest Subarray With OR at Least K II",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Bitwise AND of Numbers Range",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Find Kth Bit in Nth Binary String",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Count Triplets That Can Form Two Arrays of Equal XOR",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Minimum Array End",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Find if Array Can Be Sorted",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Longest Subarray With Maximum Bitwise AND",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Longest Nice Subarray",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Find the Longest Substring Containing Vowels in Even Counts",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  },
+  {
+    "title": "Minimize XOR",
+    "difficulty": "Medium",
+    "Topic": "Bit Manipulation"
+  }  
+]
