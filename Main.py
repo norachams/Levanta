@@ -10,10 +10,10 @@ from twilio.rest import Client
 
 
 load_dotenv()
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+GITHUB_TOKEN = os.getenv("MY_GITHUB_TOKEN")
 
 if not GITHUB_TOKEN:
-    raise RuntimeError("GITHUB_TOKEN not set")
+    raise RuntimeError("MY_GITHUB_TOKEN not set")
 
 # Building a function that reads form github to know what questions were already solved and not repeat
 def getQuestions():
@@ -64,6 +64,10 @@ def getQuestions():
     assigned = random.choice(list(todo)) if todo else None
 
     return assigned
+
+# if __name__ == "__main__":
+#     print(getQuestions())
+
 
 
 #This function is using the cohere api to create a text message based on the prompt given 

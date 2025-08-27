@@ -17,7 +17,7 @@ jobs:
       - run: pip install -r requirements.txt
       - env:
           COHERE_TOKEN: ${{ secrets.COHERE_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
           TWILIO_ACCOUNT_SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
           TWILIO_TOKEN: ${{ secrets.TWILIO_TOKEN }}
         run: python Main.py
