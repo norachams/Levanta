@@ -66,7 +66,8 @@ def getQuestions():
     return assigned
 
 
-
+#This function is using the cohere api to create a text message based on the prompt given 
+# and then we are using the output from the getQuestions() function and appending it to the end of the message for the leetcode of the day
 def generate_message():
     COHERE_TOKEN = os.getenv("COHERE_TOKEN")
 
@@ -98,8 +99,6 @@ def generate_message():
         model="command-a-03-2025",
     )
 
-
-    #text = response.output_text if hasattr(response, "output_text") else str(response)
     text = response.message.content[0].text 
     
 
