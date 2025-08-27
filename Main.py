@@ -136,8 +136,8 @@ def send_message():
     return message.body
 
 
-print(send_message())
-
+if __name__ == "__main__":
+    send_message()
 
 
 
