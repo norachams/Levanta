@@ -7,6 +7,8 @@ from dotenv import load_dotenv
 import os
 import cohere
 from twilio.rest import Client
+from supabase import recent, banned_people_last_k, save_message
+
 
 
 load_dotenv()
@@ -46,7 +48,10 @@ def getQuestions():
     #now we want to just look at questions that are not in completed file and take from those 
     todo = set()
     
-    with open('NeetcodeQ.json', 'r') as file:
+    # with open('NeetcodeQ.json', 'r') as file:
+    #     data = json.load(file)
+
+    with open('p.json', 'r') as file:
         data = json.load(file)
 
     count = 0 
@@ -58,6 +63,7 @@ def getQuestions():
             todo.add(nquestion)
         count+=1
 
+
     #so now all questions that are pending to be done are in the set 'todo'
 
     #and now we want to 
@@ -65,9 +71,9 @@ def getQuestions():
 
     return assigned
 
+
 # if __name__ == "__main__":
 #     print(getQuestions())
-
 
 
 #This function is using the cohere api to create a text message based on the prompt given 
