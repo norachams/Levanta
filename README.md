@@ -21,6 +21,7 @@ No excuses. No mercy. Just accountability.
 2. **Cohere API** generates a motivational message with tough-love style.
 3. **GitHub API** checks your solved LeetCode problems, compares with your full problem set, and picks a random unsolved one.
 4. **Twilio API** sends the combined message + problem directly to your phone.
+5. **Supabase** to store old messages and avoid repetitions in messages.
 
 ---
 
@@ -30,6 +31,7 @@ No excuses. No mercy. Just accountability.
 - **GitHub API** (track solved problems from your repo)
 - **Twilio API** (send SMS)
 - **GitHub Actions** (daily automation)
+- **Supabase** (saves old messages in db)
 
 ---
 
@@ -47,6 +49,8 @@ No excuses. No mercy. Just accountability.
     COHERE_TOKEN=your_cohere_token
     TWILIO_ACCOUNT_SID=your_twilio_sid
     TWILIO_TOKEN=your_twilio_token
+    SUPABASE_URL=your_supabase_url
+    SUPABASE_KEY=your_supabase_key
     ```
 
 3. Install dependencies:
