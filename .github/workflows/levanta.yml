@@ -12,12 +12,6 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Cache old_messages.txt
-        uses: actions/cache@v4
-        with:
-          path: old_messages.txt
-          key: levanta-messages
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -34,5 +28,7 @@ jobs:
           MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
           TWILIO_ACCOUNT_SID: ${{ secrets.TWILIO_ACCOUNT_SID }}
           TWILIO_TOKEN: ${{ secrets.TWILIO_TOKEN }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
         run: python Main.py
 

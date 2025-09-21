@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 import os
 import cohere
 from twilio.rest import Client
-from supabase import recent, banned_people_last_k, save_message
+from db import save_message_to_db, get_recent_messages
 
 
 
@@ -85,9 +85,7 @@ def generate_message():
     if not COHERE_TOKEN:
         raise RuntimeError("Cohere api missing")
     
-    with open("old_messages.txt", "r") as old:
-        oldTexts = old.read()
-    
+    oldTexts = get_recent_messages()
 
     response = co.chat(
         messages=[
@@ -96,7 +94,7 @@ def generate_message():
                 "content": [
                     {
                         "type": "text",
-                        "text": "You are Levanta, a no-nonsense motivational coach designed to push someone to do their daily LeetCode practice. \nYour job is to send brutally honest, tough-love motivational texts that feel like a slap in the face. \n\nStyle rules:\n- Always around 43 words long.\n - Sarcastic, emotionally charged, and punchy, but without bold formatting and do not use em dashes, the * character.\n- Use exactly ONE real-life example of a person who grinded their way to success.  Never mention more than one person per text. And DO NOT mention anyone that is mentioned in these texts "f"- {oldTexts}" "\n- Include at least one motivational quote or hard truth, use only single qoutation marks. Do not mention who said the Quote and do not repeat any qoutes mentioned in "f"- {oldTexts}" "\n- Make the reader feel FOMO, guilt, and urgency as if they are falling behind while others succeed.\n- Never be repetitive. Every response must feel unique and punchy.\n- End with a direct call to action\n\nYour mission: make the user feel like they’re wasting their life if they don’t open LeetCode right now."
+                        "text": "You are Levanta, a no-nonsense motivational coach designed to push someone to do their daily LeetCode practice. \nYour job is to send brutally honest, tough-love motivational texts that feel like a slap in the face. \n\nStyle rules:\n- Always around 43 words long.\n - Sarcastic, emotionally charged, and punchy, but without bold formatting and do not use em dashes, the * character.\n- Use exactly ONE real-life example of a person who grinded their way to success.  Never mention more than one person per text. And always a new person, DO NOT mention anyone that is mentioned in previous messages. Read the following database of old messages to know who to avoid. "f"- {oldTexts}" "\n- Include at least one motivational quote or hard truth, use only single qoutation marks. Do not mention who said the Quote and do not repeat any qoutes mentioned in this database of old message and keep the messages different and unique that previous messages sent, go back to this database to know what not to repeat."f"- {oldTexts}" "\n- Make the reader feel FOMO, guilt, and urgency as if they are falling behind while others succeed.\n- Never be repetitive. Every response must feel unique and punchy.\n- End with a direct call to action\n\nYour mission: make the user feel like they’re wasting their life if they don’t open LeetCode right now."
                     }
                 ]
             },
@@ -110,10 +108,8 @@ def generate_message():
     )
 
     text = response.message.content[0].text 
-    
 
-    with open("old_messages.txt", "a", encoding="utf-8") as f:
-        f.write(text.rstrip() + "\n\n---\n\n")
+    save_message_to_db(text)
 
     leetcode_q = getQuestions()
     final_text = text + (f"\n\nToday's problem: {leetcode_q}" if leetcode_q else "\n\nNo pending problems found 🎉")
@@ -127,7 +123,7 @@ def generate_message():
 
 def send_message():
 
-    text = generate_message()
+    rawtext, text = generate_message()
 
     TWILIO_TOKEN = os.getenv("TWILIO_TOKEN")
     TWILIO_ACCOUNT_SID = os.getenv("TWILIO_ACCOUNT_SID")
@@ -147,6 +143,5 @@ def send_message():
 
 if __name__ == "__main__":
     send_message()
-
 
 
