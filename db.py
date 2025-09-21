@@ -18,6 +18,6 @@ def get_recent_messages(limit = 25):
     res = supabase.table("info").select('messages').order("created_at", desc=True).limit(limit).execute()
     rows = res.data or []
     texts = [r.get("messages", "") for r in rows if r.get("messages")]
-    return print("\n\n".join(texts))
+    return "\n\n".join(texts)
 
 
