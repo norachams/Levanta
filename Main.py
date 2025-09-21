@@ -119,8 +119,8 @@ def generate_message():
     return final_text
 
 
-if __name__ == "__main__":
-    print(generate_message())
+# if __name__ == "__main__":
+#     print(generate_message())
 
 
 def send_message():
@@ -143,7 +143,7 @@ def send_message():
     return message.body
 
 
-# if __name__ == "__main__":
-#     send_message()
+if __name__ == "__main__":
+    send_message()
 
 
