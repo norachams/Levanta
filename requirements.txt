@@ -47,5 +47,4 @@ Werkzeug==3.1.3
 yarl==1.20.1
 supabase
 spacy>=3.7,<3.8
-en-core-web-sm==3.7.1
 
