@@ -32,6 +32,7 @@ No excuses. No mercy. Just accountability.
 - **Twilio API** (send SMS)
 - **GitHub Actions** (daily automation)
 - **Supabase** (saves old messages in db)
+- **SpaCy NER** (to extract names and avoid exmaple repetitions"
 
 ---
 
