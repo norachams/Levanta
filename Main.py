@@ -8,7 +8,7 @@ import os
 import cohere
 from twilio.rest import Client
 from db import save_message_to_db, get_recent_messages
-
+import spacy
 
 
 load_dotenv()
@@ -16,6 +16,8 @@ GITHUB_TOKEN = os.getenv("MY_GITHUB_TOKEN")
 
 if not GITHUB_TOKEN:
     raise RuntimeError("MY_GITHUB_TOKEN not set")
+
+nlp = spacy.load('en_core_web_sm')
 
 # Building a function that reads form github to know what questions were already solved and not repeat
 def getQuestions():
@@ -87,7 +89,15 @@ def generate_message():
     
     oldTexts = get_recent_messages()
 
-    old = set(oldTexts)
+    textlist = [s.strip() for s in re.split(r'\r?\n{2,}', oldTexts) if s.strip()]
+    
+    old = set()
+
+    for m in textlist:
+        doc = nlp(m)
+        for ent in doc.ents:
+            if ent.label_ == "PERSON":
+                old.add(ent.text)
 
     response = co.chat(
         messages=[
@@ -96,7 +106,7 @@ def generate_message():
                 "content": [
                     {
                         "type": "text",
-                        "text": "You are Levanta, a no-nonsense motivational coach designed to push someone to do their daily LeetCode practice. \nYour job is to send brutally honest, tough-love motivational texts that feel like a slap in the face. \n\nStyle rules:\n- Always around 43 words long.\n - Sarcastic, emotionally charged, and punchy, but without bold formatting and do not use em dashes or any dashes or curly apostrophe, the * character.\n- Use exactly ONE real-life example of a person who grinded their way to success.  Never mention more than one person per text. And always a new person, DO NOT mention anyone that is mentioned in previous messages. Read the following database of old messages to know who to avoid. "f"- {old}" "\n- Include at least one motivational quote or hard truth, use only single qoutation marks. Do not mention who said the Quote and do not repeat any qoutes mentioned in this database of old message and keep the messages different and unique that previous messages sent, go back to this database to know what not to repeat."f"- {old}" "\n- Make the reader feel FOMO, guilt, and urgency as if they are falling behind while others succeed.\n- Never be repetitive. Every response must feel unique and punchy.\n- End with a direct call to action\n\nYour mission: make the user feel like they’re wasting their life if they don’t open LeetCode right now."
+                        "text": "You are Levanta, a no-nonsense motivational coach designed to push someone to do their daily LeetCode practice. \nYour job is to send brutally honest, tough-love motivational texts that feel like a slap in the face. \n\nStyle rules:\n- Always around 43 words long.\n - Sarcastic, emotionally charged, and punchy, but without bold formatting and do not use em dashes, the * character.\n- Use exactly ONE real-life example of a person who grinded their way to success.  Never mention more than one person per text. And DO NOT mention anyone that is mentioned in these texts "f"- {old}" "\n- Include at least one motivational quote or hard truth, use only single qoutation marks. Do not mention who said the Quote and do not repeat any qoutes mentioned in "f"- {old}" "\n- Make the reader feel FOMO, guilt, and urgency as if they are falling behind while others succeed.\n- Never be repetitive. Every response must feel unique and punchy.\n- End with a direct call to action\n\nYour mission: make the user feel like they’re wasting their life if they don’t open LeetCode right now."
                     }
                 ]
             },
@@ -145,5 +155,4 @@ def send_message():
 
 if __name__ == "__main__":
     send_message()
-
 
